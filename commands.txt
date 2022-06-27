@@ -1,10 +1,13 @@
+--run react
+npm start
+
+
+
 --create a new project
 npx create-react-app react-testing-port
 
 
-
 --installing packages in
-
 -for email
 npm i @emailjs/browser
 
