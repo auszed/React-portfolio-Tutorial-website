@@ -1,0 +1,65 @@
+--create a new project
+npx create-react-app react-testing-port
+
+
+
+--installing packages in
+
+-for email
+npm i @emailjs/browser
+
+
+-for icons
+npm i @fortawesome/free-brands-svg-icons
+npm i @fortawesome/free-solid-svg-icons
+npm i @fortawesome/react-fortawesome
+
+-animation
+npm i animate.css
+
+
+-personaliza animation
+npm i gsap-trial
+
+-loaders
+npm i loaders.css
+
+
+-add a maps
+ npm i react-leaflet
+
+-actovate the loaders
+npm i react-loaders
+
+
+
+-standard package
+npm i react-router-dom
+
+
+-sass package
+npm i sass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
